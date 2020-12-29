@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WcfService_Enseignement\WcfService_Enseignement\bin\WcfService_Enseignement.dll.config
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WcfService_Enseignement\WcfService_Enseignement\bin\WcfService_Enseignement.dll
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WcfService_Enseignement\WcfService_Enseignement\bin\WcfService_Enseignement.pdb
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WcfService_Enseignement\WcfService_Enseignement\obj\Debug\WcfService_Enseignement.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WcfService_Enseignement\WcfService_Enseignement\obj\Debug\WcfService_Enseignement.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WcfService_Enseignement\WcfService_Enseignement\obj\Debug\WcfService_Enseignement.dll
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WcfService_Enseignement\WcfService_Enseignement\obj\Debug\WcfService_Enseignement.pdb

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WpfENSAT\WpfENSAT\bin\Debug\WpfENSAT.exe.config
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WpfENSAT\WpfENSAT\bin\Debug\WpfENSAT.exe
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WpfENSAT\WpfENSAT\bin\Debug\WpfENSAT.pdb
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WpfENSAT\WpfENSAT\obj\Debug\WpfENSAT.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WpfENSAT\WpfENSAT\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WpfENSAT\WpfENSAT\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WpfENSAT\WpfENSAT\obj\Debug\App.g.cs
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WpfENSAT\WpfENSAT\obj\Debug\WpfENSAT_MarkupCompile.cache
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WpfENSAT\WpfENSAT\obj\Debug\WpfENSAT.g.resources
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WpfENSAT\WpfENSAT\obj\Debug\WpfENSAT.Properties.Resources.resources
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WpfENSAT\WpfENSAT\obj\Debug\WpfENSAT.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WpfENSAT\WpfENSAT\obj\Debug\WpfENSAT.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WpfENSAT\WpfENSAT\obj\Debug\WpfENSAT.exe
+C:\Users\user\Desktop\TP3_WCF_Link_SQL\WpfENSAT\WpfENSAT\obj\Debug\WpfENSAT.pdb
